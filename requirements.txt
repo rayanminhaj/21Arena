@@ -1,0 +1,2 @@
+# 21Arena - Blackjack Simulation Requirements
+numpy==1.26.4
