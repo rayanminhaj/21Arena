@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/rayanminhaj/21Arena/blob/main/21_preview.png" alt="Mathly Preview" width="800"/>
+</p>
+
 # 21Arena
 
 21Arena is a Python-based Blackjack simulator that demonstrates the use of stack and queue data structures in game design.  
